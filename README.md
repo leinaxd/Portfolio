@@ -11,7 +11,7 @@ i'm refactoring my notebooks and uploading as sooner as possible
 
 
 You might find:
-- Machine Learning algorithms (uploading)
+- Machine Learning algorithms (uploading & refactoring)
 - Graph Theory Models (not ready)
 - 
 
