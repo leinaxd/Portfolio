@@ -12,8 +12,10 @@ i'm refactoring my notebooks and uploading as sooner as possible
 
 You might find:
 - Machine Learning algorithms (uploading & refactoring)
-- Graph Theory Models (not ready)
-- 
+- Graph Theory Models (not yet)
+- Reinforcement Learning (not yet)
+- Control Theory (not yet)
+- Signal Processing (not yet)
 
 You might not find:
 - Datasets
