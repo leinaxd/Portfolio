@@ -1,6 +1,10 @@
 This repository is intended to be a collection of Demos.
 
-# Portfilio_colab
+# Portfilio
+```
+Author: Eichenbaum Daniel M.
+Email: eichenbaum.daniel@gmail.com
+```
 
 You might find:
 - Machine Learning algorithms (uploading)
