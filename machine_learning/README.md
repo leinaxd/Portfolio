@@ -1,7 +1,8 @@
 # TODO
 1. Upload  Notebooks
 2. Refactor 
-3. Combine CS 224 assignaments with this repo
+3. Make English Only repository
+4. Combine CS 224 assignaments with this repo
 
 # Uploaded ML models
 
