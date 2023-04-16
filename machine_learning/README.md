@@ -9,4 +9,4 @@
 1. Adversarial training
 2. Sentiment Analysis with NLP
 3. word embeddings
-4. 
+4. Vision Autoencoder
