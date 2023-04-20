@@ -33,7 +33,6 @@ Next sprint:
       4.4 AWS
       4.5 Credentials
 - 5. MLOPS (ML NLP/Vision)
-    Credentials
 - 6. Embedded systems
 - 7. Apply for a job
     6.1 Linkeding
@@ -41,3 +40,5 @@ Next sprint:
     6.3 Zona jobs
 - 8. Finishing my Thesis presentation
 - 9. Build an own Portfolio Web Page
+- 10. Certificates
+    10.1 Agile (Coursera)
