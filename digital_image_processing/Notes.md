@@ -9,4 +9,15 @@ Source:
 ## Lecture 1. Introduction
 
 What is a digital Image?
-![image](origin_image.png)
+![camera](origin_image.png)
+
+- Radar Image (RPI)
+- Camera
+- Medical Imaging
+
+    Patient get injected some sort of isotope, the gamma rays get detected by a detector
+    - Gamma Ray Imaging
+ 
+![medical_example_1](medical_example_1.png)
+![medical_example_2](medical_example_1.png)
+![cargo_example_1](medical_example_1.png)
