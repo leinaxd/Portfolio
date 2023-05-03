@@ -16,6 +16,6 @@ You might find:
 - Reinforcement Learning (not yet)
 - Control Theory (not yet)
 - Signal Processing (not yet)
-
+- Digital Image Processing (on going)
 You might not find:
 - Datasets
