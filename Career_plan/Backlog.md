@@ -1,12 +1,13 @@
 # Features Backlog
 
 S: Session
+
 D/W/M: Day/Week/Month
 
 
 Prioritized List:
 
-ID_description                                [Timebox] [Priority] [Compl]
+[**ID_description**]                             [**Timebox**] [**Priority**] [**Compl**]
     
 Next sprint: 17/May/ 2023      
 
