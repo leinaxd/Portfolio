@@ -1,30 +1,30 @@
 # Features Backlog
 Prioritized List:
 
-    ID_description                                [Timebox] [Priority] [Compl]
+ID_description                                [Timebox] [Priority] [Compl]
     
-    - 1.1 Learn AGILE methodologies                   [1 W] [xxxxx]    [  xxx]
+- 1.1 Learn AGILE methodologies                   [1 W] [xxxxx]    [  xxx]
     
 Next sprint: 27/May/ 2023
-    - 2.1 Learn MySQL                                 [3 D] [xxxxx]    [  xxx]
+- 2.1 Learn MySQL                                 [3 D] [xxxxx]    [  xxx]
     
-    - 8.1 Finishing my thesis presentation             [3 D] [xxxxx]    [  xxx]
+- 8.1 Finishing my thesis presentation             [3 D] [xxxxx]    [  xxx]
     
 Next sprint: 4/May/ 2023    
 
-    - 4.1 Learn React                                  [4 D] [ xxxx]    [  xxx]
+- 4.1 Learn React                                  [4 D] [ xxxx]    [  xxx]
     
-    - 4.1 Learn Pyscript                               [4 D] [ xxxx]    [  xxx]
+- 4.1 Learn Pyscript                               [4 D] [ xxxx]    [  xxx]
     
 Next sprint: 11/May/ 2023
 
-    - 9.1 Build an own Portfolio Web Page              [2 W] [ xxxx]    [  xxx]
+- 9.1 Build an own Portfolio Web Page              [2 W] [ xxxx]    [  xxx]
     
-    - 3.1 Learn Github actions                        [2 D] [  xxx]    [  xxx]
+- 3.1 Learn Github actions                        [2 D] [  xxx]    [  xxx]
     
 Next sprint: 18/May/ 2023    
 
-    - 3.2 Do some projects (Planner)                   [4 W] [  xxx]    [  xxx]
+- 3.2 Do some projects (Planner)                   [4 W] [  xxx]    [  xxx]
     
 Next sprint:     
     
