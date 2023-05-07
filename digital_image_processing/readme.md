@@ -1,10 +1,9 @@
 # Digital Image Processing
 
+Within the references, you will find various interesting and interactive projects made by me, or notes regarding specific topics within the domain of digital image processing
 
-DIP interactive notebooks to play:
-  https://github.com/leinaxd/NOTES/tree/main/digital_image_processing/notebooks
+1. [Interactive Notebooks, **playground**](https://github.com/leinaxd/NOTES/tree/main/digital_image_processing/notebooks)
   
+
   
-  
-notes:
-  https://github.com/leinaxd/NOTES/tree/main/digital_image_processing
+2. [Link to my notes](https://github.com/leinaxd/NOTES/tree/main/digital_image_processing)
